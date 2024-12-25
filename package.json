@@ -1,7 +1,7 @@
 {
   "name": "markdown-note-taking-app",
   "version": "1.0.0",
-  "description": "Markdown Note-taking App",
+  "description": "File manipulation exercise",
   "main": "index.js",
   "type": "module",
   "scripts": {
