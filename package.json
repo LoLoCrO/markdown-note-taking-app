@@ -1,7 +1,7 @@
 {
   "name": "markdown-note-taking-app",
   "version": "1.0.0",
-  "description": "File manipulation exercise",
+  "description": "Markdown Note-taking App",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/LoLoCrO/markdown-note-taking-app#readme",
   "dependencies": {
+    "@saplingai/sapling-js": "^1.0.33",
     "axios": "^1.7.9",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
